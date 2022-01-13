@@ -8,5 +8,6 @@ public class Test1 {
         System.out.println("master");
         System.out.println("ht");
         System.out.println("push-test");
+        System.out.println("pull-test");
     }
 }
