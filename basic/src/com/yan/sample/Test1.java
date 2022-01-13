@@ -6,5 +6,6 @@ public class Test1 {
         System.out.println("77");
         System.out.println("ht");
         System.out.println("master");
+        System.out.println("ht");
     }
 }
